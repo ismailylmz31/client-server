@@ -1,0 +1,2 @@
+Of the two projects in the repo, one is a server project and the other is a client project. The aim of the projects is to create a simple registration method using a zip file client-server relationship.
+When you install and run the projects, the postt request on the server is triggered by the appropriate get request sent from the port you created in the client project, and the zip file given as a path is saved to the specified path.
